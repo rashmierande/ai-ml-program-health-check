@@ -29,7 +29,7 @@ All designed to work **without third-party annotators or large QA teams**  becau
 
 ## What's Included
 
-### 📋 [Health Check Template](framework/health_check_template.md)
+### 📋 [Health Check Template](https://github.com/rashmierande/ai-ml-program-health-check/blob/main/framework/health_check_template.md)
 A fillable one-page framework covering 7 dimensions:
 - Product & Stage Snapshot
 - Success Metrics (output quality, user impact, business, performance, data)
