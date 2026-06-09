@@ -70,7 +70,7 @@ Detailed metrics cheat sheet- what to measure, how to track it, and target range
 
 ## Background
 
-Built from experience shipping AI/ML systems at Amazon — including GenAI pipelines with ML classifiers, evaluation systems combining automated scoring with human-in-the-loop review, and IoT product launches with AI-powered field support.
+Built from experience shipping AI/ML systems at Amazon - including GenAI pipelines with ML classifiers, evaluation systems combining automated scoring with human-in-the-loop review, and IoT product launches with AI-powered field support.
 
 The Responsible AI section reflects the upcoming **EU AI Act** (full enforcement August 2, 2026) requirements for high-risk AI systems.
 
@@ -78,11 +78,11 @@ The Responsible AI section reflects the upcoming **EU AI Act** (full enforcement
 
 ## Feedback
 
-This is a living framework — I'm actively iterating based on real conversations with founders. If you've used it, I'd love to hear what worked and what didn't.
+This is a living framework - I'm actively iterating based on real conversations with founders. If you've used it, I'd love to hear what worked and what didn't.
 
 📧 eranderashmi25@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rashmierande)
 
 ---
 
-*Created by Rashmi Erande — Technical Program Manager specializing in AI/ML program delivery and evaluation systems*
+*Created by Rashmi Erande - Technical Program Manager specializing in AI/ML program delivery and evaluation systems*
