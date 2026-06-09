@@ -1,6 +1,6 @@
 # AI/ML Program Health Check Framework
 
-> A structured framework to help early-stage AI/ML teams define success metrics, identify risks, and build quality feedback loops - before launch, not after.
+A structured framework to help early-stage AI/ML teams define success metrics, identify risks, and build quality feedback loops - before launch, not after.
 
 ---
 
